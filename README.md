@@ -14,5 +14,6 @@
 ## What do you need to configure after opening the project in Unity?
 - Edit > Project Settings > Player to fill in your project info
 - import the latest Google VR SDK from https://developers.google.com/vr/unity/download#google-vr-sdk-for-unity
+- File > Open Scene > Scenes > Main.unity
 - hit play and check that the stereoscopic view is working (hold alt and move the mouse)
 - customize at will =) enjoy!
